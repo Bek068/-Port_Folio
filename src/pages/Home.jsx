@@ -25,7 +25,7 @@ const Home = () => {
                     <div className="flex flex-col md:flex-row gap-6 mt-12 pt-8 text-black font-bold">
                         <div className="flex items-center space-x-3">
                             <Phone size={20} />
-                            <span>+977 9815151515</span>
+                            <span>+977 97********</span>
                         </div>
                         <div className="flex items-center space-x-3">
                             <Mail size={20} />

@@ -47,13 +47,13 @@ const About = () => {
                             <div className="p-2 bg-gray-100 rounded-full">
                                 <Phone size={16} />
                             </div>
-                            <span>+977 9815151515</span>
+                            <span>+977 97********</span>
                         </div>
                         <div className="flex items-center space-x-3">
                             <div className="p-2 bg-gray-100 rounded-full">
                                 <User size={16} />
                             </div>
-                            <span>25 yrs</span>
+                            <span>21 yrs</span>
                         </div>
                         <div className="flex items-center space-x-3">
                             <div className="p-2 bg-gray-100 rounded-full">
@@ -76,7 +76,7 @@ const About = () => {
                         <div className="flex-1 space-y-3">
                             <div className="flex items-center gap-4">
                                 <span className="text-5xl font-bold text-transparent bg-clip-text bg-linear-to-r from-[#FFB147] via-[#FF6C63] to-[#B86ADF]">
-                                    5+
+                                    2+
                                 </span>
                                 <div className="flex flex-col text-xs font-bold text-black">
                                     <span>Years</span>
