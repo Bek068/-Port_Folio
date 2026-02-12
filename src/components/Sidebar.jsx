@@ -34,10 +34,10 @@ const Sidebar = () => {
             {/* Social Icons & Footer */}
             <div className="flex flex-col space-y-6">
                 <div className="flex space-x-4">
-                    <a href="##" target="_blank" rel="noopener noreferrer" className="w-8 h-8 bg-white rounded-full flex items-center justify-center text-black hover:bg-orange-400 transition-colors cursor-pointer">
+                    <a href="https://github.com/Bek068" target="_blank" rel="noopener noreferrer" className="w-8 h-8 bg-white rounded-full flex items-center justify-center text-black hover:bg-orange-400 transition-colors cursor-pointer">
                         <Github size={16} />
                     </a>
-                    <a href="##" target="_blank" rel="noopener noreferrer" className="w-8 h-8 bg-white rounded-full flex items-center justify-center text-black hover:bg-orange-400 transition-colors cursor-pointer">
+                    <a href="https://www.linkedin.com/in/be-bek-0b006225b/" target="_blank" rel="noopener noreferrer" className="w-8 h-8 bg-white rounded-full flex items-center justify-center text-black hover:bg-orange-400 transition-colors cursor-pointer">
                         <Linkedin size={16} />
                     </a>
                 </div>
