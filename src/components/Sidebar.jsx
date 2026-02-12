@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Github, Linkedin } from 'lucide-react';
+import { Github, Instagram, Linkedin } from 'lucide-react';
 
 const Sidebar = () => {
     return (
@@ -40,6 +40,10 @@ const Sidebar = () => {
                     <a href="https://www.linkedin.com/in/be-bek-0b006225b/" target="_blank" rel="noopener noreferrer" className="w-8 h-8 bg-white rounded-full flex items-center justify-center text-black hover:bg-orange-400 transition-colors cursor-pointer">
                         <Linkedin size={16} />
                     </a>
+                    <a href="https://www.instagram.com/b_bek.rzl068" target="_blank" rel="noopener noreferrer" className="w-8 h-8 bg-white rounded-full flex items-center justify-center text-black hover:bg-orange-400 transition-colors cursor-pointer">
+                        <Instagram size={16} />
+                    </a>
+                
                 </div>
                 <div className="text-xs text-gray-500">
                     <p>Copyright ©2026 BIBEK RIJAL</p>
