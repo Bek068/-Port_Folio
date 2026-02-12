@@ -1,5 +1,5 @@
 import React from 'react';
-import { Code, Shield, Palette, Music, Trophy, Heart } from 'lucide-react';
+import { Code, Shield, Palette, Music, Trophy, Heart, Book } from 'lucide-react';
 
 const Interests = () => {
     const interests = [
@@ -22,9 +22,9 @@ const Interests = () => {
 
     const hobbies = [
         {
-            icon: <Trophy size={32} />,
-            title: "Playing Cricket",
-            description: "Enjoy the thrill of the game, teamwork, and the competitive spirit on the field."
+            icon: <Book size={32} />,
+            title: "Reading Books",
+            description: "Enjoy reading a variety of genres, from fiction to non-fiction, to expand my knowledge and imagination."
         },
         {
             icon: <Music size={32} />,
